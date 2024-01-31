@@ -1,21 +1,39 @@
+
+div{
+    background-color: darkcyan;
+    margin: 20px;
+    border: 3px solid black;
+    
+}
 .one
 {
-    background-color: darkgrey;
+    background-color: darkcyan;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:xx-large ;
+    margin: 20px;
+    border: 3px solid black;
 }
 .two{
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
+    margin:20px;
+   border: 2px solid black;
+    
 }
 .three{
     background-color:aquamarine;
+    margin: 20px;
+    border: 2px solid black;
 }
 .pone{
     background-color: darkgrey;
     font-size: large;
+    margin: 20px;
+    border: 2px solid black;
 }
 .ptwo{
     background-color: darkgrey;
     font-size: large;
+    margin: 20px;
+    border: 2px solid black;
 }

@@ -1,0 +1,28 @@
+.one{
+    color: black;
+     font-size: 24px;
+      background: red;
+}
+.two{
+    background-color: yellow;
+     padding: 10px;
+}
+.div1{
+    border: 1px solid black;
+}
+.div2{
+    border: 1px solid black;
+     background: red;
+}
+.h1{
+    color: blue;
+}
+.cent{
+    text-align: center;
+}
+.li1{
+    font-weight: bold;
+}
+.li2{
+    font-weight: italic;
+}
