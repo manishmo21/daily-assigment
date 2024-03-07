@@ -1,4 +1,3 @@
-// aggregations.js
 const Movie = require('./models/db');
 const mongoose = require('mongoose');
 
