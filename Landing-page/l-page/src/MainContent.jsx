@@ -6,13 +6,13 @@ const Mens = () => {
       <div id="direction">
         
         <div id="direction">
-          <img src="nike.jpg" alt="error" class="redTape" />
-          <span class="redTape">
+          <img src="nike.jpg" alt="error" className="redTape" />
+          <span className="redTape">
             Nike Mens Downshifter 11 |Men-Shoes Sneaker
           </span>
 
-          <h4 class="price">
-            Price : ₹ 2999 <button class="button">Add to cart</button>
+          <h4 className="price">
+            Price : ₹ 2999 <button className="button">Add to cart</button>
           </h4>
         </div>
       </div>
@@ -26,10 +26,10 @@ const Womens = () => {
       <h2>For Women's</h2>
       <div id="direction">
         <div id="direction">
-          <img src="bata1.jpg" alt="error" class="redTape" />
-          <span class="redTape">Bata Women Ellen Ankle Boot Esandal</span>
-          <h4 class="price">
-            Price : ₹ 1099 <button class="button">Add to cart</button>
+          <img src="bata1.jpg" alt="error" className="redTape" />
+          <span className="redTape">Bata Women Ellen Ankle Boot Esandal</span>
+          <h4 className="price">
+            Price : ₹ 1099 <button className="button">Add to cart</button>
           </h4>
         </div>
        
@@ -44,13 +44,13 @@ const Kids = () => {
       <h2>For Kids</h2>
       <div id="direction">
         <div id="direction">
-          <img src="kids.jpg" alt="error" class="redTape" />
-          <span class="redTape">
+          <img src="kids.jpg" alt="error" className="redTape" />
+          <span className="redTape">
             SVAAR Slingback Clog Shoes for Boys & Girls || Indoor & Outdoor
             Sandals Clogs for Kids with 4 Cartoon Charm
           </span>
-          <h4 class="price">
-            Price : ₹ 899 <button class="button">Add to cart</button>
+          <h4 className="price">
+            Price : ₹ 899 <button className="button">Add to cart</button>
           </h4>
         </div>
         </div>
